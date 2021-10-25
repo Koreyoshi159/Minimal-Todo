@@ -1,1 +1,1 @@
-This is a test for merge
+This is a test for merge conflict
