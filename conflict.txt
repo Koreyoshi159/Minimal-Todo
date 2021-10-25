@@ -1,1 +1,1 @@
-Dit is een test file voor conflic
+Dit is een andere conflict file voor 2.6
